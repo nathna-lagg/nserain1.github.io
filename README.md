@@ -1,2 +1,3 @@
 # nserain1.github.io
-Website for AME 300
+Website for CIS300
+This repositiory contains files for CIS300 Project Assignments.
